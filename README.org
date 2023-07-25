@@ -1,0 +1,10 @@
+* cl-rrd
+
+RRDtool bindings for Common Lisp via CFFI.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hbock/cl-rrd.git   |
+| commit  | 24e34e1  |
+| systems | cl-rrd |
+|---------+-------------------------------------------|
+
